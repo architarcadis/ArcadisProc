@@ -19,8 +19,8 @@ DATABASE_CONFIG = {
     "use_mock_data": True,     # Set to False to use database connection
     "mock_data_size": {
         "spend_data": 1000,    # Number of spend records
-        "suppliers": 40,       # Number of suppliers
-        "contracts": 100,      # Number of contracts
+        "suppliers": 40,       # Number of unique suppliers for risk/performance data (must be <= len(CONSTRUCTION_SUPPLIERS) in data_generator.py)
+        "contracts": 50,       # Number of contracts to generate
         "risk_alerts": 50      # Number of risk alerts
     }
 }
