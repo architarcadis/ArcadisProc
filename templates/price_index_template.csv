@@ -1,0 +1,21 @@
+category,index_name,date,index_value,percentage_change,base_year,source,notes
+Structural Steel,Construction Metals Index,2025-01-01,156.8,2.3,2020,Construction Materials Monitor,Increases due to energy costs and global supply chain disruptions
+Structural Steel,Construction Metals Index,2025-02-01,159.5,1.7,2020,Construction Materials Monitor,Continued upward pressure with high demand for infrastructure projects
+Structural Steel,Construction Metals Index,2025-03-01,162.1,1.6,2020,Construction Materials Monitor,Slight moderation but still elevated due to raw material costs
+Structural Steel,Construction Metals Index,2025-04-01,164.3,1.4,2020,Construction Materials Monitor,Stabilizing with supply chains improving but demand remains strong
+Lumber,Timber Materials Index,2025-01-01,142.7,1.8,2020,Construction Cost Database,Price growth slowing after significant volatility in previous quarters
+Lumber,Timber Materials Index,2025-02-01,144.3,1.1,2020,Construction Cost Database,Moderate increases as supply adjusts to residential construction demand
+Lumber,Timber Materials Index,2025-03-01,143.2,-0.8,2020,Construction Cost Database,Modest price correction as new supply enters market
+Lumber,Timber Materials Index,2025-04-01,144.5,0.9,2020,Construction Cost Database,Stabilizing with seasonal demand patterns emerging
+Concrete,Ready-Mix Concrete Index,2025-01-01,138.6,1.2,2020,Construction Materials Monitor,Steady increases driven by aggregates costs and transportation
+Concrete,Ready-Mix Concrete Index,2025-02-01,140.2,1.2,2020,Construction Materials Monitor,Consistent growth with high infrastructure project demand
+Concrete,Ready-Mix Concrete Index,2025-03-01,142.3,1.5,2020,Construction Materials Monitor,Accelerating increases due to cement production cost pressures
+Concrete,Ready-Mix Concrete Index,2025-04-01,144.9,1.8,2020,Construction Materials Monitor,Continued upward pressure from energy costs and labor constraints
+Electrical,Electrical Components Index,2025-01-01,167.3,3.4,2020,Building Systems Price Report,Sharp increases in copper-based products and electronic components
+Electrical,Electrical Components Index,2025-02-01,171.5,2.5,2020,Building Systems Price Report,Continued strong growth from semiconductor shortages affecting controls
+Electrical,Electrical Components Index,2025-03-01,174.6,1.8,2020,Building Systems Price Report,Growth rate declining but still elevated due to supply constraints
+Electrical,Electrical Components Index,2025-04-01,177.2,1.5,2020,Building Systems Price Report,Slight moderation with improved chip availability for building systems
+HVAC,Mechanical Systems Index,2025-01-01,149.2,2.7,2020,Building Systems Price Report,Notable increases from material costs and equipment component shortages
+HVAC,Mechanical Systems Index,2025-02-01,152.1,1.9,2020,Building Systems Price Report,Continued increases with pressure from specialized metals and electronics
+HVAC,Mechanical Systems Index,2025-03-01,154.4,1.5,2020,Building Systems Price Report,Rate of increase moderating with improvements in supply chain reliability
+HVAC,Mechanical Systems Index,2025-04-01,156.3,1.2,2020,Building Systems Price Report,Growth slowing but still above general inflation due to demand factors

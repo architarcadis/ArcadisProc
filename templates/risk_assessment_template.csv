@@ -1,0 +1,11 @@
+supplier,financial_risk,operational_risk,compliance_risk,geopolitical_risk,overall_risk,risk_level,assessment_date,notes
+Skyworks Aviation,3.2,5.1,2.8,4.0,3.8,medium,2025-01-10,Moderate financial concerns due to recent acquisitions
+Altitude Aerospace,4.5,3.8,2.3,5.7,4.1,medium,2025-01-10,Significant geopolitical exposure in Southeast Asia
+Global Turbine Solutions,2.1,1.8,2.0,2.5,2.1,low,2025-01-10,Strong financial position with excellent compliance history
+AeroComposite Materials,6.8,4.2,3.5,5.6,5.0,high,2025-01-10,Financial instability due to raw material cost fluctuations
+Precision Aerospace Systems,3.5,2.9,1.7,3.0,2.8,low,2025-01-10,Compliance excellence but some operational inefficiencies
+AviationTech Solutions,5.2,4.7,3.9,3.5,4.3,medium,2025-01-10,Recent quality issues affecting operational reliability
+FlightSafety Training,2.5,3.0,1.5,1.8,2.2,low,2025-01-10,Minor operational concerns but financially stable
+AeroDynamics International,4.0,4.2,5.8,6.2,5.1,high,2025-01-10,Significant compliance and geopolitical risk exposure
+Aviation Fuel Services,7.2,3.5,4.2,8.0,5.7,high,2025-01-10,Heavy exposure to geopolitical conflicts and oil price volatility
+TechAero Services,5.5,5.8,4.9,3.8,5.0,high,2025-01-10,Multiple operational challenges and financial instability

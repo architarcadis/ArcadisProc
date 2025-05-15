@@ -1,0 +1,9 @@
+setuptools
+wheel
+streamlit>=1.27.0
+pandas>=1.3.0  # Or specific version like pandas==2.0.3 if needed
+numpy>=1.21.0   # Or specific version like numpy==1.25.2 if needed
+plotly>=5.10.0
+openpyxl>=3.0.0
+matplotlib>=3.5.0
+psycopg[binary]>=3.1,<4.0 # For PostgreSQL connection

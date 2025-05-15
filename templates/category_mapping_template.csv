@@ -1,0 +1,46 @@
+category_id,category_name,subcategory_id,subcategory_name,category_code,description,uom,responsible_department,strategic_importance,sustainability_rating
+1000,Structural Materials,1001,Structural Steel,STR-STL,"Steel beams, columns, connections, and structural components used in building framing systems",Metric Ton,Procurement,Critical,Medium
+1000,Structural Materials,1002,Concrete Products,STR-CON,"Ready-mix concrete, precast components, and specialized concrete mixes",Cubic Meter,Procurement,Critical,Medium
+1000,Structural Materials,1003,Wood Framing,STR-WD,"Dimensional lumber, engineered wood products, and mass timber components",Board Foot,Procurement,High,High
+1000,Structural Materials,1004,Rebar & Reinforcing,STR-RBR,"Reinforcing steel, mesh, post-tensioning materials, and concrete accessories",Metric Ton,Procurement,Critical,Medium
+1000,Structural Materials,1005,Masonry Products,STR-MSN,"Brick, CMU, stone, mortar, and masonry accessories",Each/Square Meter,Procurement,High,Medium
+2000,MEP Systems,2001,HVAC Equipment,MEP-HVC,"Air handlers, chillers, boilers, VAV boxes, and distribution components",Each,Engineering,Critical,Medium
+2000,MEP Systems,2002,Electrical Equipment,MEP-ELE,"Transformers, switchgear, panels, generators, and distribution equipment",Each,Engineering,Critical,Medium
+2000,MEP Systems,2003,Plumbing Fixtures,MEP-PLB,"Pumps, water heaters, fixtures, piping, and distribution components",Each,Engineering,High,High
+2000,MEP Systems,2004,Fire Protection,MEP-FP,"Sprinklers, standpipes, fire pumps, and fire suppression systems",Each,Engineering,Critical,High
+2000,MEP Systems,2005,Building Automation,MEP-BAS,"Controls, sensors, building management systems, and smart building tech",Each,Engineering,Medium,High
+3000,Building Envelope,3001,Roofing Systems,ENV-RF,"Membrane, metal, tile roofing, insulation, and roofing accessories",Square Meter,Procurement,Critical,High
+3000,Building Envelope,3002,Exterior Cladding,ENV-CLD,"Curtain wall, metal panels, EIFS, siding, and facade systems",Square Meter,Procurement,High,Medium
+3000,Building Envelope,3003,Insulation,ENV-INS,"Building insulation, vapor barriers, air barriers, and thermal breaks",Square Meter,Procurement,Medium,High
+3000,Building Envelope,3004,Glazing Systems,ENV-GLZ,"Windows, storefronts, curtain walls, glass, and glazing systems",Square Meter,Procurement,High,Medium
+3000,Building Envelope,3005,Doors & Hardware,ENV-DH,"Exterior doors, frames, hardware, and entrance systems",Each,Procurement,Medium,Medium
+4000,Finishes,4001,Flooring Materials,FIN-FLR,"Carpet, tile, hardwood, resilient flooring, and floor preparation",Square Meter,Procurement,Medium,Medium
+4000,Finishes,4002,Wall Systems,FIN-WL,"Drywall, framing, plaster, wall treatments, and partitions",Square Meter,Procurement,Medium,Medium
+4000,Finishes,4003,Ceilings,FIN-CLG,"Acoustic ceiling, specialty ceilings, cloud features, and soffits",Square Meter,Procurement,Low,Medium
+4000,Finishes,4004,Paint & Coatings,FIN-PNT,"Paint, specialty coatings, wallcoverings, and finish treatments",Liter,Procurement,Low,High
+4000,Finishes,4005,Architectural Specialties,FIN-SPEC,"Toilet partitions, lockers, signage, and interior specialties",Each,Procurement,Low,Medium
+5000,Site Work,5001,Excavation & Grading,SITE-EXC,"Sitework, grading, excavation, and soil management services",Cubic Meter,Operations,High,Medium
+5000,Site Work,5002,Foundation Systems,SITE-FND,"Deep foundations, caissons, pilings, and retention systems",Linear Meter,Engineering,Critical,Low
+5000,Site Work,5003,Site Utilities,SITE-UTL,"Water, sewer, electrical, and site utilities infrastructure",Linear Meter,Engineering,High,Medium
+5000,Site Work,5004,Paving & Hardscape,SITE-PAV,"Asphalt, concrete paving, decorative paving, and site improvements",Square Meter,Operations,Medium,Medium
+5000,Site Work,5005,Landscaping,SITE-LND,"Plants, irrigation, soil, site furnishings, and landscape features",Square Meter,Operations,Low,High
+6000,Equipment & Specialties,6001,Construction Equipment,EQ-CONST,"Heavy machinery, lifts, scaffolding, and construction equipment rental",Day,Operations,High,Low
+6000,Equipment & Specialties,6002,Safety Equipment,EQ-SFTY,"Fall protection, PPE, safety systems, and monitoring equipment",Each,Operations,Critical,Low
+6000,Equipment & Specialties,6003,Specialty Equipment,EQ-SPEC,"Elevators, escalators, loading dock equipment, and specialty systems",Each,Procurement,Medium,Medium
+6000,Equipment & Specialties,6004,Formwork Systems,EQ-FORM,"Concrete forms, shoring, bracing, and forming accessories",Square Meter,Operations,High,Medium
+6000,Equipment & Specialties,6005,Tools & Hardware,EQ-TOOL,"Hand tools, power tools, fasteners, and general hardware",Each,Operations,Low,Low
+7000,Building Materials,7001,Cement,MAT-CMT,"Portland cement, specialty cements, and cementitious materials",Metric Ton,Procurement,High,Medium
+7000,Building Materials,7002,Aggregates,MAT-AGG,"Sand, gravel, crushed stone, and specialty aggregates",Metric Ton,Procurement,High,Medium
+7000,Building Materials,7003,Admixtures,MAT-ADM,"Concrete additives, accelerators, plasticizers, and color agents",Liter,Procurement,Medium,Medium
+7000,Building Materials,7004,Fasteners,MAT-FST,"Bolts, anchors, screws, nails, and specialty connectors",Each,Procurement,Medium,Low
+7000,Building Materials,7005,Lumber,MAT-LMB,"Dimensional lumber, plywood, sheathing, and wood materials",Board Foot,Procurement,High,High
+8000,Professional Services,8001,Engineering & Design,SERV-ENG,"Structural, civil, MEP engineering, and specialty design services",Hour,Engineering,Critical,Medium
+8000,Professional Services,8002,Consulting Services,SERV-CON,"Code consulting, sustainability consulting, and specialty advisors",Hour,Engineering,Medium,Medium
+8000,Professional Services,8003,Testing & Inspection,SERV-TEST,"Materials testing, special inspections, and quality control services",Hour,Operations,High,Low
+8000,Professional Services,8004,Site Services,SERV-SITE,"Site security, temporary facilities, and construction support",Month,Operations,Medium,Low
+8000,Professional Services,8005,Safety Services,SERV-SFTY,"Safety training, monitoring, and compliance services",Hour,Operations,Critical,Low
+9000,Prefabricated Components,9001,Modular Construction,PRE-MOD,"Prefabricated building modules, volumetric construction, and pods",Each,Engineering,High,High
+9000,Prefabricated Components,9002,Precast Elements,PRE-CAST,"Precast concrete panels, stairs, architectural elements",Each,Engineering,High,Medium
+9000,Prefabricated Components,9003,Structural Components,PRE-STR,"Pre-engineered trusses, wall panels, and structural assemblies",Each,Engineering,High,Medium
+9000,Prefabricated Components,9004,Bathroom Pods,PRE-BATH,"Factory-built bathroom units with complete fixtures and finishes",Each,Engineering,Medium,High
+9000,Prefabricated Components,9005,Prefab MEP Systems,PRE-MEP,"Prefabricated mechanical rooms, risers, and MEP assemblies",Each,Engineering,Medium,High

@@ -1,0 +1,16 @@
+category,subcategory,market_size_usd_millions,growth_rate_percent,top_supplier_1,top_supplier_2,top_supplier_3,supplier_1_market_share,supplier_2_market_share,supplier_3_market_share,barriers_to_entry,buyer_power,supplier_power,substitution_risk,competitive_rivalry,report_date,source
+Structural Materials,Structural Steel,12850,5.2,SteelWorks Construction,Apex Steel Fabricators,MetalTech Industries,26.4,21.7,14.8,High,Medium,High,Low,Medium,2025-01-15,Construction Market Intelligence
+Structural Materials,Precast Concrete,9320,4.8,Concrete Solutions Inc,PrecastTech Manufacturing,Foundation Systems,28.5,22.3,18.2,High,Medium,Medium,Low,Medium,2025-01-15,Construction Market Intelligence
+Building Envelope,Roofing Systems,7780,3.9,AllWeather Roofing,Superior Roof Solutions,TechRoof Innovations,23.5,19.8,14.2,Medium,Medium,Medium,Medium,High,2025-01-15,Construction Market Intelligence
+Building Envelope,Exterior Cladding,6950,4.7,CladdingTech Systems,Facade Innovations,BuilderWall Solutions,22.8,18.5,15.3,Medium,Medium,Medium,Medium,High,2025-01-15,Construction Market Intelligence
+Building Envelope,Insulation Systems,5650,6.2,InsulTech Industries,EnergyShield Products,ThermalGuard Solutions,25.3,22.5,17.2,Medium,Medium,Low,Medium,Medium,2025-01-15,Construction Market Intelligence
+MEP Systems,HVAC Equipment,14800,5.8,Climate Systems International,ThermalControl Inc,AirFlow Technologies,24.7,18.5,15.6,High,Medium,High,Low,High,2025-01-15,Building Systems Market Report
+MEP Systems,Electrical Equipment,12850,6.4,PowerTech Solutions,ElectroSystems Inc,VoltMaster Industries,21.5,18.8,16.4,High,Medium,Medium,Low,High,2025-01-15,Building Systems Market Report
+MEP Systems,Plumbing Fixtures,8700,3.1,FluidSystems International,PlumbTech Solutions,HydroFlow Industries,19.5,17.9,14.8,Medium,High,Medium,Medium,High,2025-01-15,Building Systems Market Report
+Finishes,Flooring Materials,7320,4.8,FloorTech Industries,Surface Solutions,Premium Flooring Systems,20.5,17.3,14.6,Low,High,Medium,High,High,2025-01-15,Interior Finishes Market Report
+Finishes,Wall Systems,6250,3.2,WallTech Solutions,Interior Systems Inc,Surface Innovations,21.2,18.5,15.8,Low,High,Medium,High,High,2025-01-15,Interior Finishes Market Report
+Building Materials,Cement,18850,3.8,Global Cement Corporation,CementWorks Industries,BuildBase Materials,26.5,22.7,18.6,High,Medium,High,Low,Medium,2025-01-15,Construction Materials Report
+Building Materials,Aggregates,14250,2.3,Aggregate Industries,Stone Resources Inc,Quarry Operations Ltd,24.8,20.5,16.2,High,Medium,High,Low,Medium,2025-01-15,Construction Materials Report
+Equipment,Heavy Machinery,22850,4.2,ConstructEquip International,MachineryTech Industries,PowerMachine Corp,27.4,23.8,18.5,Very High,Medium,High,Low,Medium,2025-01-15,Construction Equipment Survey
+Equipment,Tools & Hardware,9750,5.5,ToolTech Industries,Construction Hardware Inc,BuilderTools Corp,18.5,15.4,13.7,Medium,High,Medium,Medium,High,2025-01-15,Construction Equipment Survey
+Specialty Services,Engineering & Design,16250,7.2,EngineerWorks Consultants,Design Solutions Group,BuildTech Engineering,19.5,16.8,14.4,Medium,Medium,Medium,Medium,High,2025-01-15,Construction Services Report
