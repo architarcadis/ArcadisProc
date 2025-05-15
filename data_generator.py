@@ -446,7 +446,7 @@ def generate_performance_data(n=20):
 def generate_contract_data(n=30):
     """Generate construction-specific contract data"""
     # Use the same suppliers for consistency
-    suppliers = np.random.choice(CONSTRUCTION_SUPPLIERS, size=n, replace=False)
+    suppliers = np.random.choice(CONSTRUCTION_SUPPLIERS, size=n, replace=True)
     
     # Contract types
     contract_types = [
